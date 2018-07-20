@@ -1,0 +1,51 @@
+#app {
+  background-color: var(--light);
+  margin-top: 2rem;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+}
+
+p {
+  font-family: "Source Code Pro", monospace;
+}
+
+ol li,
+ul li {
+  font-family: "Source Code Pro", monospace;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.loading__overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.loading {
+  width: 300px;
+  background: #000;
+  text-transform: uppercase;
+  position: fixed;
+  font-weight: 700;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  margin-left: -150px;
+  margin-top: -10px;
+  padding: 20px;
+}
+
+.mute {
+  color: darkgray;
+}
