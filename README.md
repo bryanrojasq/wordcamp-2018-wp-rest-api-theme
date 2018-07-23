@@ -10,7 +10,7 @@ Abordamos los fundamentos sobre cómo crear un Theme usando el Plugin WP Rest AP
 Construir un Theme usando el potencial del concepto ‘Headless CMS’ para articular nuestros equipos de trabajo eficientemente.
 
 ### Recursos
-- [Presentación](https://www.slideshare.net/brojask/creando-un-theme-con-wp-rest-api)
+- [Presentación](https://www.slideshare.net/brojask/creando-un-theme-con-wp-rest-api-107175552)
 - [Rest API Handbook](https://developer.wordpress.org/rest-api/)
 - [Vue.js by Example(free course)](https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example)
 - [Wordpress Code Reference](https://developer.wordpress.org/reference
